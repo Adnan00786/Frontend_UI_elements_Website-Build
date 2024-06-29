@@ -37,7 +37,8 @@
     "slick-carousel": "^1.8.1",
     "sonner": "^1.5.0",
     "tailwind-merge": "^2.3.0",
-    "use-dark-mode": "^2.3.1"
+    "use-dark-mode": "^2.3.1",
+    "use-dark-mode-hook": "^1.2.6"
   },
   "devDependencies": {
     "@types/node": "^20",
